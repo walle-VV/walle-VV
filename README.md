@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 👋 Hi, I’m @walle-VV
+
 👀 Interested in the field of artificial intelligence, very curious about cutting-edge technology, and like to practice. And record my learning process and share some creative ideas and thoughts.
-💞️ I’m looking to collaborate on neuralsymbolic, reinforcement learning..
+
 
 
 
